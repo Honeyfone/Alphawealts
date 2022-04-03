@@ -1560,6 +1560,8 @@ ol.digit-list p {
   -o-transition: all 450ms ease-in-out;
   -ms-transition: all 450ms ease-in-out;
   transition: all 450ms ease-in-out; 
+  /* adjusted the padding for the logo after switching to slider */
+  padding-bottom: 7px;
 }
 
 .wscenterlogo img {
@@ -4953,7 +4955,7 @@ select:-webkit-autofill:focus {
 }
 
 #about-page.page-hero-section {
-  background-image: url(../images/about-page1.jpg);
+  background-image: url(../images/about-page.jpg);
 }
 
 #programs-page.page-hero-section {
