@@ -1499,20 +1499,20 @@ ol.digit-list p {
 /*------------------------------------------*/
 
 #loading { background-color: #f8f6f4; }
-.spinner .blob { border: 2px solid #f08080; }
-.spinner .move-blob { background: #f08080; }
+.spinner .blob { border: 2px solid #80a0f0; }
+.spinner .move-blob { background: #80a0f0; }
 
 #loading.plum-loading { background-color: #f7f5f3; }
-.plum-loading .spinner .blob { border: 2px solid #d07ea7; }
-.plum-loading .spinner .move-blob { background: #d07ea7; }
+.plum-loading .spinner .blob { border: 2px solid #43d5da; }
+.plum-loading .spinner .move-blob { background: #43d5da; }
 
 #loading.rose-loading { background-color: #f0f0f2; }
-.rose-loading .spinner .blob { border: 2px solid #fd1c79; }
-.rose-loading .spinner .move-blob { background: #fd1c79; }
+.rose-loading .spinner .blob { border: 2px solid #061666; }
+.rose-loading .spinner .move-blob { background: #061666; }
 
 #loading.violet-red-loading { background-color: #f7f5f3; }
-.violet-red-loading .spinner .blob { border: 2px solid #da3b85; }
-.violet-red-loading .spinner .move-blob { background: #da3b85; }
+.violet-red-loading .spinner .blob { border: 2px solid #26778e; }
+.violet-red-loading .spinner .move-blob { background: #26778e; }
 
 
 
