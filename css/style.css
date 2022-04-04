@@ -1252,7 +1252,7 @@ ol.digit-list p {
 .rose--color li, 
 .rose--color i, 
 .rose--color span,
-.white--color .rose--color { color: #c5c6e2; }
+.white--color .rose--color { color: #d6d7e9; }
 
 /*------------------------------------------*/
 /*  MORE BUTTON
@@ -1584,7 +1584,7 @@ ol.digit-list p {
 }
 
 .white-menu .wsmainfull {
-  background-color: #fff!important;
+  background-color: rgb(23, 8, 58)!important;
   padding: 10px 0;
   -webkit-box-shadow: 0 2px 3px rgba(96, 96, 96, .1);
   -moz-box-shadow: 0 2px 3px rgba(96, 96, 96, .1);
