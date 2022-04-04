@@ -624,7 +624,7 @@
   .wsmenu > .wsmenu-list > li.wscenterlogo { display: none; }
 
   .wsmobileheader { height: 80px; text-align: center; box-shadow: 0 0 2px rgba(50, 50, 50, 0.4); } 
-  .tra-menu .wsmobileheader, .white-menu .wsmobileheader { background-color: #fff; }
+  .tra-menu .wsmobileheader, .white-menu .wsmobileheader { background-color: rgb(50, 96, 112); }
   .dark-menu .wsmobileheader { background-color: #1d293f; }
 
   .callusbtn { left: 0; top:0; padding: 14px 0 14px 0; margin: 14px 0 0 28px; }

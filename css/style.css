@@ -1268,7 +1268,7 @@ ol.digit-list p {
 .rose--color li, 
 .rose--color i, 
 .rose--color span,
-.white--color .rose--color { color: #fd1c79; }
+.white--color .rose--color { color: #050a91; }
 
 /*------------------------------------------*/
 /*  MORE BUTTON
@@ -4694,6 +4694,7 @@ select:-webkit-autofill:focus {
   ========================================================================== */
 
 .footer {
+  background-color: #201e29;
   padding-top: 100px;
   padding-bottom: 40px;
 }
