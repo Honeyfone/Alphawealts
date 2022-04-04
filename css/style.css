@@ -797,8 +797,8 @@ ol.digit-list p {
 .scroll .violet-red--hover:hover, 
 .white--color .violet-red--hover:hover {
   color: #fff!important;
-  background-color: #da3b85;
-  border-color: #da3b85!important;
+  background-color: #833bda;
+  border-color: #5e3bda!important;
 }
 
 .tra-violet-red--btn, 
@@ -807,9 +807,9 @@ ol.digit-list p {
 .tra-violet-red--hover:hover, 
 .scroll .tra-violet-red--hover:hover, 
 .white--color .tra-violet-red--hover:hover {
-  color: #da3b85!important;
+  color: #3bda8b!important;
   background-color: transparent;
-  border-color: #da3b85!important;
+  border-color: #3bda9a!important;
 }
 
 .plum--btn, 
@@ -819,8 +819,8 @@ ol.digit-list p {
 .scroll .plum--hover:hover, 
 .white--color .plum--hover:hover {
   color: #fff!important;
-  background-color: #d07ea7;
-  border-color: #d07ea7!important;
+  background-color: #887ed0;
+  border-color: #595dc6!important;
 }
 
 .tra-plum--btn, 
@@ -829,9 +829,9 @@ ol.digit-list p {
 .tra-plum--hover:hover, 
 .scroll .tra-plum--hover:hover, 
 .white--color .tra-plum--hover:hover {
-  color: #d07ea7!important;
+  color: #0d425c!important;
   background-color: transparent;
-  border-color: #d07ea7!important;
+  border-color: #7e90d0!important;
 }
 
 .red--btn, 
@@ -841,8 +841,8 @@ ol.digit-list p {
 .scroll .red--hover:hover, 
 .white--color .red--hover:hover {
   color: #fff!important;
-  background-color: #f1292e;
-  border-color: #f1292e!important;
+  background-color: #c629f1;
+  border-color: #bc29f1!important;
 }
 
 .tra-red--btn, 
@@ -851,9 +851,9 @@ ol.digit-list p {
 .tra-red--hover:hover, 
 .scroll .tra-red--hover:hover, 
 .white--color .tra-red--hover:hover {
-  color: #f1292e!important;
+  color: #5429f1!important;
   background-color: transparent;
-  border-color: #f1292e!important;
+  border-color: #29b8f1!important;
 }
 
 .rose--btn, 
@@ -863,8 +863,8 @@ ol.digit-list p {
 .scroll .rose--hover:hover, 
 .white--color .rose--hover:hover {
   color: #fff!important;
-  background-color: #fd1c79;
-  border-color: #fd1c79!important;
+  background-color: #761cfd;
+  border-color: #361cfd!important;
 }
 
 .tra-rose--btn, 
@@ -873,9 +873,9 @@ ol.digit-list p {
 .tra-rose--hover:hover, 
 .scroll .tra-rose--hover:hover, 
 .white--color .tra-rose--hover:hover {
-  color: #fd1c79!important;
+  color: #1c5cfd!important;
   background-color: transparent;
-  border-color: #fd1c79!important;
+  border-color: #241cfd!important;
 }
 
 /*------------------------------------------*/
